@@ -6,3 +6,4 @@
 ![YTDTotalSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/2afe3465-c089-4a6c-96c5-99cb43f448a2)
 ![YTDPTYD](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/52a0391e-493f-4288-ada8-04e8fe0e03af)
 ![YOYGrowthSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/cf40b0f4-4cd8-4b87-958f-2139be804478)
+![details](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a2efe884-ad4d-4f66-b2a6-205b01120b4a)
