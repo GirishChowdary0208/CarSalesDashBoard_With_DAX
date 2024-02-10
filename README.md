@@ -100,22 +100,28 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 **Problem Statement 2: Charts**
 
 
-**YTD Sales Weekly Trend:** ![WeeklyTrend](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/006c793b-0266-49ee-b6c2-19d0bdd4e7f8)
+**YTD Sales Weekly Trend:**
+![WeeklyTrend](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/006c793b-0266-49ee-b6c2-19d0bdd4e7f8)
 
 
-**YTD Total Sales by Body Style:** ![YTDTotalSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/2afe3465-c089-4a6c-96c5-99cb43f448a2)
+**YTD Total Sales by Body Style:**
+![YTDTotalSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/2afe3465-c089-4a6c-96c5-99cb43f448a2)
 
 
-**YTD Total Sales by Color:** ![YTDTotalSalesByColor](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/0864e0f0-3c0b-472a-a5c0-b6d00182ea39)
+**YTD Total Sales by Color:** 
+![YTDTotalSalesByColor](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/0864e0f0-3c0b-472a-a5c0-b6d00182ea39)
 
 
-**YTD Cars Sold by Dealer Region:** ![DealerRegion](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/38574caf-6ce0-44cc-9760-75b516647d6c)
+**YTD Cars Sold by Dealer Region:** 
+![DealerRegion](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/38574caf-6ce0-44cc-9760-75b516647d6c)
 
 
-**Company-Wise Sales Trend in Grid Form:** ![AllCarSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/171f7629-8380-4f30-bf26-b44f13bad065)
+**Company-Wise Sales Trend in Grid Form:** 
+![AllCarSales](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/171f7629-8380-4f30-bf26-b44f13bad065)
 
 
-**Details Grid Showing All Car Sales Information:** ![details](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a2efe884-ad4d-4f66-b2a6-205b01120b4a)
+**Details Grid Showing All Car Sales Information:** 
+![details](https://github.com/GirishChowdary0208/Powerbi/assets/92716279/a2efe884-ad4d-4f66-b2a6-205b01120b4a)
 
 
 
